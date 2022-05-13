@@ -33,6 +33,8 @@ I'm a full stack developer! I've been programming since I was 13 years old, with
 - I don't use anything else...
 
 [![Nick's Github Stats](https://github-readme-stats.vercel.app/api?username=urnotnick&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urnotnick&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **urnotnick/urnotnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
