@@ -6,10 +6,9 @@ I'm a full stack developer! I've been programming since I was 13 years old, with
 
 ## Favorite Languages
 - C#
-- C Sharp
-- See Sharp
-- Sea Sharp
-- PHP sometiems
+- C++
+- LUA
+- PHP
 
 ## Languages I know
 - PHP
@@ -21,7 +20,7 @@ I'm a full stack developer! I've been programming since I was 13 years old, with
 - C++
 - C
 - C#
-- LUA (i have started to hate this language since i used s&box)
+- LUA
 
 ## My projects
 - SCP: Breach, a [s&box](https://sbox.facepunch.com/news) game inspired by SCP: Unity and SCP: Containment Breach.
