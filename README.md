@@ -31,4 +31,4 @@ I'm a full stack developer! I've been programming since I was 13 years old, with
 - I don't use anything else...
 
 [![Nick's Github Stats](https://github-readme-stats.vercel.app/api?username=urnotnick&theme=react&show_icons=1&include_all_commits=1&count_private=1&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urnotnick&theme=react&layout=compact&langs_count=10&hide=HTML,LUA,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urnotnick&theme=react&layout=compact&langs_count=10&hide=HTML,LUA,CSS&count_private=1)](https://github.com/anuraghazra/github-readme-stats)
