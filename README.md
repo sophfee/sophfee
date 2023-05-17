@@ -1,4 +1,4 @@
-# Hey! I'm Nick
+# Hey! I'm Sophie
 Welcome to my profile!
 
 ## I like to program!
@@ -8,7 +8,6 @@ I'm a full stack developer! I've been programming since I was 13 years old, with
 - C#
 - C++
 - LUA
-- PHP
 
 ## Languages I know
 - PHP
@@ -21,9 +20,10 @@ I'm a full stack developer! I've been programming since I was 13 years old, with
 - C
 - C#
 - LUA
+- GDScript
 
 ## My projects
-- SCP: Breach, a [s&box](https://sbox.facepunch.com/news) game inspired by SCP: Unity and SCP: Containment Breach.
+- Incursion, a stand-alone game that I don't have much to say about just yet.
 - Landis Games HL2RP, a Garry's Mod Semi-Serious Roleplay community, currently focused on Half-Life 2 Roleplay.
 
 ## Socials
